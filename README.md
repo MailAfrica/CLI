@@ -108,3 +108,10 @@ make test
 
 Tests spin up ephemeral fake servers (with `-race` clean) covering the e2e
 command paths incl. the batch summary contract and one-time-secret handling.
+
+## Related projects
+
+- [MailAfrica API](https://github.com/MailAfrica/MailAfrica-API) — authoritative user API contract
+- [MailAfrica public developer docs](https://docs.mailafrica.online/cli)
+- [MailAfrica Go SDK](https://github.com/MailAfrica/go-sdk)
+- [MailAfrica ecosystem guide](https://github.com/troubleman96/MailAfrica-Docs#mailafrica--project-and-developer-documentation)
